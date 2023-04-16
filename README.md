@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring the use of remote sensing technology for crop phenology and spatial distribution map research.
 - 🎓 &nbsp; Studying Cartography and Geographical Information System at Aerospace Information Research, Chinese Academy of Sciences.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Remote Sensing, Google Earth Engine and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Photograping and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
