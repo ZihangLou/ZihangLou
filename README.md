@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="middle" src="https://github.com/ZihangLou/ZihangLou/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230416104039.jpg?raw=true" width="120px">
-
 <h2> Hey there! I'm Zihang Lou.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
